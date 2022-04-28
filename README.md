@@ -22,3 +22,9 @@ https://api-parking-control.herokuapp.com/swagger-ui/
 - Swagger
 
 - Heroku
+
+## Melhorias a implementar:
+
+- Testes unitários
+
+- Filters & Query(Request) Params
